@@ -1,3 +1,6 @@
+# Pierre Visconti
+# CSCI 341
+
 .data 
 	string0: .asciiz	"Enter the first number: "
 	string1: .asciiz	"Enter the second number: "
