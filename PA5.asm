@@ -1,3 +1,6 @@
+# Pierre Visconti
+# CSCI 341
+
 .data
 	prompt:		.asciiz "Enter 32-bit number to translate to instruction: "
 	and_string:	.asciiz "and $##, $##, $##"
