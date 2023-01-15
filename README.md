@@ -6,4 +6,4 @@ I am simply posting my work as a record for myself and as an academic resource f
 
 - MIPS Assembly  
 - Most proud of PA5 and PA7
-- This was probably my favorite class I took
+- This was one of my favorite classes I have taken
