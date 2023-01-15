@@ -1,3 +1,6 @@
+# Pierre Visconti
+# CSCI 341
+
 .data
 	arr: 	.word 7, 25, 12, -1, 25, 18, 15, -17, 34, 15, 2, 88, 1, -2147483648, 77, 180, 13, 7, 0, 25
 	output: .asciiz "Non-repeating elements: "
