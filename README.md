@@ -5,4 +5,4 @@ I am simply posting my work as a record for myself and as an academic resource f
 
 
 MIPS Assembly
-Most proud of PA.5 and PA.7
+Most proud of PA5 and PA7
