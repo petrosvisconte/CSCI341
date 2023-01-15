@@ -1,3 +1,6 @@
+# Pierre Visconti
+# CSCI 341
+
 .data
 	arr: 	.byte 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 	prompt:	.asciiz	"Please enter a positive integer (less than 2^30): "
