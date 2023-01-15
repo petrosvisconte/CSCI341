@@ -1,3 +1,6 @@
+# Pierre Visconti
+# CSCI 341
+
 .data
 	prompt_HI:	.asciiz "Enter integer value for HI register: "
 	prompt_LO:	.asciiz "Enter integer value for LO register: "
